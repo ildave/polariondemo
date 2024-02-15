@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
-* @wi.implements STRT/ST-394 Returns sum
+* @wi.implements ST-394 Returns sum
 */
 int add(int a, int b) {
   return a + b;
